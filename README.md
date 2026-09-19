@@ -15,7 +15,7 @@
 - [ ] TPA81
 - [ ] TPA82
 
-##### This is the `./quad.py --help` documentation 
+### This is the `./quad.py --help` documentation 
 ---
 ```
 quad.py
