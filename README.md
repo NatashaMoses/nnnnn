@@ -17,7 +17,7 @@
 
 ### This is the `./quad.py --help` documentation 
 ---
-```
+
 quad.py
 
 Usage:
@@ -25,8 +25,9 @@ Usage:
       Print this help message.
   ./quad.py "Prénom" "Nom-de-Famille"
       Print "PNOM" (the quadrigram of the specified person, in upper case)
-  **Example:**
-  **./quad.py "Natasha" "Moses"**
+```      
+  `Example:`
+  `./quad.py "Natasha" "Moses"`
       Print "NMOS" (the 1st letter of the 1st name & the 1st three letters of the last name)
 ```
 > ↑ Fill this README with your First name & LAST NAMEs (`+`-separated)
